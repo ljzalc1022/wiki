@@ -18,6 +18,8 @@ This is a SPA (Single Page Application), where the URL reflects current state of
 Routing is done with `react-router-dom` 
 which utilize HTML5 history API to synchonize UI with the URL.
 
+The homepage `'/'` is redirected to `/view/FrontPage`.
+
 ### request
 
 `useEffect` and `axios` are used to make asynchronous requests.
