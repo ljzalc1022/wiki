@@ -1,3 +1,6 @@
 [submodule "react-wiki-frontend"]
 	path = react-wiki-frontend
 	url = git@github.com:ljzalc1022/react-wiki-frontend.git
+[submodule "gowiki"]
+	path = gowiki
+	url = git@github.com:ljzalc1022/gowiki.git

@@ -38,3 +38,12 @@ runs at component mounts and modification to dependencies (e.g. page title).
 #### `axios`
 
 a promise-based HTTP client.
+
+## backend
+
+The backend is a gin RESTful server
+
+### interface
+
+- GET `view/:title` - get the content of the page `title`
+- POST `save/` - save the posted page
